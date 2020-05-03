@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/Homework2/include/Node.cpp
+Node.h
+/Users/poprosian/Desktop/University/Programming/C++/ADS/Homework2/include/Node.h
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/Homework2/include/Node.h
+string
+-
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/Homework2/include/SkipList.cpp
+iostream
+-
+SkipList.h
+/Users/poprosian/Desktop/University/Programming/C++/ADS/Homework2/include/SkipList.h
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/Homework2/include/SkipList.h
+Node.h
+/Users/poprosian/Desktop/University/Programming/C++/ADS/Homework2/include/Node.h
+vector
+-
+cstdlib
+-
+ctime
+-
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/Homework2/main.cpp
+iostream
+-
+include/SkipList.h
+/Users/poprosian/Desktop/University/Programming/C++/ADS/Homework2/include/SkipList.h
+
